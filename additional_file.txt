@@ -1,2 +1,3 @@
 adding an additional file
 conflict line
+third line
